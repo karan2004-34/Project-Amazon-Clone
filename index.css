@@ -20,7 +20,7 @@
     height: 50px;
 }
 .logo{
-    background-image: url("/IMAGES/amazon_logo.png");
+    background-image: url("IMAGES/amazon_logo.png");
     width: 100px;
     height: 50px;
     background-size: cover;
@@ -91,7 +91,7 @@
     justify-content: center;
 }
 .flag {
-    background-image: url("/IMAGES/Indian\ flag\ logo.png");
+    background-image: url("IMAGES/Indian flag logo.png");
     width: 20px;
     height: 14px;
     background-size: cover;
